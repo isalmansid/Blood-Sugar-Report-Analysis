@@ -41,4 +41,4 @@ python app.py
 npm start
 ```
 
-4. Upload the blood reports from documents folder for testing
+4. Upload the blood reports from documents folder for testing (multiple reports can be uploaded)
