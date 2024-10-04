@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e640e5f-32ee-4e2c-8c7d-277aff7f1673" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/GOZII_MUMBAI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documents/Mr_WASEEM_AHMAD_001_14_12_2023_04_32_23_PM.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documents/Mr_WASEEM_AHMAD_003_13_07_2023_03_50_24_PM.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documents/Mr_WASIM_AHMAD_002_01_05_2024_04_54_58_PM.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/src/BloodSugarUpload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood-sugar-report/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mydOCjuXlw709olXNBJLaNxPA2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.app.executor": "Run",
+    "Python.python app.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/isalm/PycharmProjects/GOZII_MUMBAI/Documents",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\isalm\PycharmProjects\GOZII_MUMBAI\Documents" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GOZII_MUMBAI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python app.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GOZII_MUMBAI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.python app.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e640e5f-32ee-4e2c-8c7d-277aff7f1673" name="Changes" comment="" />
+      <created>1728052715442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728052715442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

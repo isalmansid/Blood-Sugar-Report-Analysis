@@ -1,0 +1,101 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e9ecef; /* Light grey background */
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 30px; /* Increased padding for more space */
+    border-radius: 10px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+}
+
+.container:hover {
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.2); /* Slight shadow on hover */
+}
+
+h1 {
+    text-align: center;
+    color: #343a40; /* Dark color for the title */
+    margin-bottom: 25px;
+    font-size: 2.5em; /* Increased font size for the title */
+}
+
+input[type="file"] {
+    display: block;
+    margin: 20px auto;
+    padding: 12px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+input[type="file"]:hover {
+    border-color: #007bff; /* Change border color on hover */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Shadow effect on hover */
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 12px 25px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px); /* Slight lift on hover */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Shadow effect on hover */
+}
+
+.highcharts-container {
+    height: 400px; /* Set a fixed height for the chart */
+    margin-top: 0px;
+    border: 1px solid #007bff; /* Add border around the chart */
+    border-radius: 8px;
+    overflow: hidden; /* Hide overflow */
+    background: #f8f9fa; /* Light background for chart area */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow around chart */
+}
+
+p {
+    color: #dc3545; /* Danger color for error messages */
+    text-align: center;
+    font-weight: bold; /* Bold error messages */
+}
+
+.chart-title {
+    text-align: center;
+    font-size: 24px; /* Increased font size for chart title */
+    color: #343a40; /* Dark color for the chart title */
+    margin-bottom: 15px;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 20px; /* Reduce padding on smaller screens */
+    }
+
+    button {
+        width: 100%; /* Full width buttons on smaller screens */
+    }
+
+    input[type="file"] {
+        width: 100%; /* Full width file input on smaller screens */
+    }
+
+    h1 {
+        font-size: 2em; /* Responsive font size for title */
+    }
+}
